@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dr1",
+    "name": "Dr. Ananya Sharma",
+    "specialty": "Somnologist & Neurologist",
+    "clinic": "Apollo Sleep Center",
+    "city": "Delhi",
+    "phone": "+91 98765 43210",
+    "email": "dr.sharma@apollosleep.in",
+    "virtual_consult": true
+  },
+  {
+    "id": "dr2",
+    "name": "Dr. Rajesh Iyer",
+    "specialty": "Pulmonologist & Sleep Specialist",
+    "clinic": "Fortis Hospital",
+    "city": "Mumbai",
+    "phone": "+91 98765 43211",
+    "email": "r.iyer@fortis.in",
+    "virtual_consult": false
+  },
+  {
+    "id": "dr3",
+    "name": "Dr. Meera Reddy",
+    "specialty": "Psychiatrist & CBT-I Expert",
+    "clinic": "Mind & Sleep Clinic",
+    "city": "Bangalore",
+    "phone": "+91 98765 43212",
+    "email": "m.reddy@mindsleep.in",
+    "virtual_consult": true
+  },
+  {
+    "id": "dr4",
+    "name": "Dr. Karthik Krishnan",
+    "specialty": "ENT & Sleep Apnea Specialist",
+    "clinic": "Kauvery Hospital",
+    "city": "Chennai",
+    "phone": "+91 98765 43213",
+    "email": "drkrishnan@kauvery.in",
+    "virtual_consult": true
+  },
+  {
+    "id": "dr5",
+    "name": "Dr. Sameer Patel",
+    "specialty": "Neurologist",
+    "clinic": "Care Hospitals",
+    "city": "Hyderabad",
+    "phone": "+91 98765 43214",
+    "email": "spatel@carehospitals.com",
+    "virtual_consult": false
+  },
+  {
+    "id": "dr6",
+    "name": "Dr. Kavita Rao",
+    "specialty": "Pediatric Sleep Specialist",
+    "clinic": "Rainbow Children's Hospital",
+    "city": "Mysuru",
+    "phone": "+91 98765 43215",
+    "email": "kavita.rao@rainbow.in",
+    "virtual_consult": true
+  },
+  {
+    "id": "dr7",
+    "name": "Dr. Vikram Singh",
+    "specialty": "Pulmonologist",
+    "clinic": "Max Super Speciality",
+    "city": "Delhi",
+    "phone": "+91 98765 43216",
+    "email": "v.singh@max.in",
+    "virtual_consult": true
+  },
+  {
+    "id": "dr8",
+    "name": "Dr. Priya Desai",
+    "specialty": "Clinical Psychologist",
+    "clinic": "Breach Candy Hospital",
+    "city": "Mumbai",
+    "phone": "+91 98765 43217",
+    "email": "p.desai@breachcandy.in",
+    "virtual_consult": true
+  }
+]
