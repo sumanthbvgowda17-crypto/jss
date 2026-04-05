@@ -92,9 +92,9 @@ export default function Login({ onLoginSuccess }) {
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center gap-2 mb-4 bg-emerald-500/10 border border-emerald-500/20 px-4 py-1.5 rounded-full">
             <Activity size={14} className="text-emerald-400" />
-            <span className="text-emerald-400 text-xs font-mono font-medium tracking-wide">Smart Bed Connected</span>
+            <span className="text-emerald-400 text-xs font-mono font-medium tracking-wide">Smart Sense Connected</span>
           </div>
-          <h1 className="text-4xl text-white mb-2 font-serif tracking-wide drop-shadow-md">SmartBed Health</h1>
+          <h1 className="text-4xl text-white mb-2 font-serif tracking-wide drop-shadow-md">SmartSense AI</h1>
           <p className="text-gray-400 text-sm">Your intelligent sleep & health monitor</p>
         </div>
 
